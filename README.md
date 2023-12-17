@@ -6,3 +6,7 @@ Consumers currently can take advantage of the $7,500 new EV credit or $4,000 use
 But despite the benefits EVs offer - from government incenvites to contributing to a cleaner form of mobility - the widespread adoption of EVs has been met with various challenges, leading to a slower-than-expected transition from traditional internal combustion engine vehicles (ICE). For example, as reported by The Economist, "a poll published in July by the Pew Research Centre found that less than two-fifths of them would consider buying an electric vehicle."
 
 This project attempts to understand the roadblocks to EV adoption by collecting data via Youtube API and conducting TF-IDF and topic modelling analysis. 
+
+*Sources*
+Is America’s EV revolution stalling? (The Economist, Nov. 27, 2023) https://shorturl.at/abgpt
+U.S. Treasury details EV tax credit rebate rules (Reuters, Oct. 6, 2023) https://shorturl.at/anoO2
