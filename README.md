@@ -8,5 +8,5 @@ But despite the benefits EVs offer - from government incenvites to contributing 
 This project attempts to understand the roadblocks to EV adoption by collecting data via Youtube API and conducting TF-IDF and topic modelling analysis. 
 
 *Sources*
-Is America’s EV revolution stalling? (The Economist, Nov. 27, 2023) https://shorturl.at/abgpt
-U.S. Treasury details EV tax credit rebate rules (Reuters, Oct. 6, 2023) https://shorturl.at/anoO2
+<li> Is America’s EV revolution stalling? (The Economist, Nov. 27, 2023) https://shorturl.at/abgpt </li>
+<li> U.S. Treasury details EV tax credit rebate rules (Reuters, Oct. 6, 2023) https://shorturl.at/anoO2 </li>
