@@ -1,14 +1,17 @@
 # Roadblocks to EV Adoption
 
-## Introduction
-The automotive landscape is undergoing a revolutionary transformation as society pivots towards sustainable and eco-friendly transportation solutions. In August 2022, Congress approved a sweeping reform of the electrical vehicles ("EV") tax credits as part of the $430 billion Inflation Reduction Act (IRA). 
+The automotive landscape finds itself at a crossroads, in the wake of a shift towards sustainable and eco-friendly transportation solutions. Notably, the electric vehicle (EV) sector has experienced a significant boost with Congress's recent approval of the comprehensive electrical vehicle tax credit reform as part of the $430 billion Inflation Reduction Act (IRA) in August 2022. 
 
-Consumers currently can take advantage of the $7,500 new EV credit or $4,000 used EV credit when they file their tax returns the following year. More enticingly, starting in January 2024, consumers can transfer the credits to a car dealer, effectively lowering the vehicle’s purchase price. 
+Moreover, California recently made a commitment mandating that by 2035, 100% of new cars and light trucks sold in the state will be zero-emission vehicles. There is therefore a clear political will and discourse on sustainable transportation solutions.
 
-But despite the benefits EVs offer - from government incenvites to contributing to a cleaner form of mobility - the widespread adoption of EVs has been met with various challenges, leading to a slower-than-expected transition from traditional internal combustion engine vehicles (ICE). For example, as reported by The Economist, "a poll published in July by the Pew Research Centre found that less than two-fifths of them would consider buying an electric vehicle."
+As of now, consumers have the opportunity to leverage a USD 7500 tax credit for new EV purchases or a USD 4000 credit for used EVs when filing their tax returns the following year. These incentives are even more compelling as commencing January 2024, consumers can transfer these credits directly to car dealers, effectively reducing the purchase price of the vehicle. Despite such substantial financial incentives and the promising prospect of contributing to a cleaner mode of mobility, the mass adoption of EVs faces hurdles, resulting in a slower-than-expected transition from traditional internal combustion engine vehicles (ICE).
 
-This project attempts to understand the roadblocks to EV adoption, told from the perspective of potential customers, by collecting data via Youtube API and conducting TF-IDF and topic modelling analysis.
+For instance, recent data, as reported by The Economist, highlights a significant hesitation among potential consumers. A poll published in July by the Pew Research Centre revealed that less than two-fifths of respondents would consider purchasing an electric vehicle. This reluctance raises pertinent questions about the barriers preventing the seamless integration of EVs into everyday life.
 
-*Sources*
-<li> Is America’s EV revolution stalling? (The Economist, Nov. 27, 2023) https://shorturl.at/abgpt </li>
-<li> U.S. Treasury details EV tax credit rebate rules (Reuters, Oct. 6, 2023) https://shorturl.at/anoO2 </li>
+The aim of this project is to analyse impediments to widespread EV adoption, focusing on the perspective of potential customers. The project leverages YouTube API's to aggregate relevant customer sentiment and employs TF-IDF, topic modelling analysis, sentiment analysis, as well as a visualisation via Word Cloud. 
+
+***Sources***
+*   Is America’s EV revolution stalling? (The Economist, Nov. 27, 2023) https://shorturl.at/abgpt
+*   U.S. Treasury details EV tax credit rebate rules (Reuters, Oct. 6, 2023) https://shorturl.at/anoO2
+* Cars and Light-Trucks are Going Zero - Frequently Asked Questions (California Air Resources Board)
+ https://shorturl.at/ajxHS 
